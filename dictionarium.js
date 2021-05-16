@@ -1,3 +1,4 @@
+let wasm_bindgen;
 import * as __wbg_star0 from 'env';
 
 let wasm;
